@@ -36,9 +36,4 @@ Analyze sales and customer data to identify key business insights such as top cu
 
 ---
 
-## SQL Queries
-Include your main SQL queries here or link to your SQL scripts folder.
-
----
-
 *Project by [PRIYA]*  
